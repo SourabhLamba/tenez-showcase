@@ -43,6 +43,11 @@ Precision is the share of predictions that match an annotation. Recall is the sh
 
 These figures measure **event class and timing on development footage**. Generalization to new courts and camera angles, end-to-end scoring, line-call accuracy, calibrated ball speed, and mobile latency require separate evaluation.
 
+## Authors & Contributors
+
+- **Sourabh Lamba** ([@SourabhLamba](https://github.com/SourabhLamba))
+- **Ritika Gaur** ([@ritikagaurwork-cpu](https://github.com/ritikagaurwork-cpu))
+
 ## Copyright
 
 © 2026 Axio Labs. All rights reserved. This public repository contains the showcase documentation. The application source, model weights, training pipeline, datasets, and match recordings are confidential.
